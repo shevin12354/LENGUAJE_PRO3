@@ -1,0 +1,6 @@
+{
+  "name": "Catálogo de Celulares - Uniremington LP3",
+  "description": "Backend en Node.js, Express, Sequelize ORM y SQLite con sincronización a API pública y panel interactivo en React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

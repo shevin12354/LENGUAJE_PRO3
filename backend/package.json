@@ -1,0 +1,32 @@
+{
+  "name": "backend-celulares",
+  "version": "1.0.0",
+  "description": "Backend Fullstack con Express, Sequelize y MySQL (XAMPP) para Lenguaje de Programación III - Uniremington",
+  "main": "server.ts",
+  "scripts": {
+    "start": "node server.ts",
+    "dev": "node --watch server.ts"
+  },
+  "keywords": [
+    "uniremington",
+    "express",
+    "sequelize",
+    "mysql",
+    "fullstack"
+  ],
+  "author": "Uniremington - Lenguaje de Programación III",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mysql2": "^3.11.0",
+    "sequelize": "^6.37.8"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.11.0",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.12"
+  }
+}
